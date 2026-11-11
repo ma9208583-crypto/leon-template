@@ -1,18 +1,18 @@
-# Leon Template
+# قالب ليون (Leon Template)
 
-## About The Project
-This project is a simple website created using HTML5 and CSS3 as part of an HTML course assignment.
+## نبذة عن المشروع
+هذا المشروع عبارة عن موقع إلكتروني بسيط تم إنشاؤه باستخدام HTML5 وCSS3، وذلك كجزء من متطلبات واجب مساق HTML.
 
-## Technologies Used
+## التقنيات المستخدمة
 - HTML5
 - CSS3
 - Font Awesome
 - Google Fonts
 
-## Project Structure
-- `index.html` - Main webpage.
-- `css/` - Stylesheet files.
-- `images/` - Website images.
+## هيكل المشروع
+- `index.html` - الصفحة الرئيسية للموقع.
+- `css/` - ملفات تنسيق وتصميم الموقع.
+- `images/` - الصور المستخدمة في الموقع.
 
-## Author
-Student HTML Project
+## صاحب المشروع
+الطالب: محمود وليد كاك
